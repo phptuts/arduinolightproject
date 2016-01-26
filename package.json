@@ -1,0 +1,22 @@
+{
+  "name": "photobooth",
+  "version": "1.0.0",
+  "description": "\"Example Photo Booth Application\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "johnny",
+    "5",
+    "example"
+  ],
+  "author": "Noah Glaser",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "johnny-five": "^0.9.17",
+    "underscore": "^1.8.3"
+  }
+}

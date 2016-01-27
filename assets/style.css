@@ -11,7 +11,7 @@ header, section#main {
 
 header > h1, section > h1 {
     text-align:center;
-    font: normal 80px 'Molle', cursive;
+    font: normal 80px 'helvetica', cursive;
 }
 
 section#main {
